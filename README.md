@@ -4,6 +4,8 @@
 **SAMBANGI-RAJU/SAMBANGI-RAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![image](https://github.com/SAMBANGI-RAJU/SAMBANGI-RAJU/assets/115488085/9993d9f9-9d7b-4c8a-88da-a8724aa2420b)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
