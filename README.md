@@ -2,9 +2,9 @@
 
 <!--
 **SAMBANGI-RAJU/SAMBANGI-RAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
-![programmer](https://github.com/SAMBANGI-RAJU/SAMBANGI-RAJU/assets/115488085/ace55281-91c4-4637-9b25-35c6de8f1519)
+![programmer](https://github.com/SAMBANGI-RAJU/SAMBANGI-RAJU/assets/115488085/eb843e53-77eb-4eb3-9627-7df9b776bdae)
 
 
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
