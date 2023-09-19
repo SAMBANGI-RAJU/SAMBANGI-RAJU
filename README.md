@@ -1,14 +1,10 @@
-### Hi there 👋
-
 <!--
 **SAMBANGI-RAJU/SAMBANGI-RAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-![programmer](https://github.com/SAMBANGI-RAJU/SAMBANGI-RAJU/assets/115488085/eb843e53-77eb-4eb3-9627-7df9b776bdae)
-
-
 <h1 align="center">Hi 👋, I'm SAMBANGI RAJU</h1>
 <h3 align="center">A passionate Data Science and Artificial Intelligence from India</h3>
+
+![programmer](https://github.com/SAMBANGI-RAJU/SAMBANGI-RAJU/assets/115488085/eb843e53-77eb-4eb3-9627-7df9b776bdae)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambangi-raju&label=Profile%20views&color=0e75b6&style=flat" alt="sambangi-raju" /> </p>
 
